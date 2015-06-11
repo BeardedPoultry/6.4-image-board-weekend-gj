@@ -7,3 +7,4 @@ import router from './router';
     Backbone.history.start();
   });
 })();
+//updatedmain.js
