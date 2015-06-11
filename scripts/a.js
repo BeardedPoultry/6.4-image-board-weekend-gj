@@ -1,4 +1,4 @@
-import router from './router';
+import router from './scripts/router';
 
 (function(){
   'use strict';
@@ -7,4 +7,5 @@ import router from './router';
     Backbone.history.start();
   });
 })();
+
 //updatedmain.js
